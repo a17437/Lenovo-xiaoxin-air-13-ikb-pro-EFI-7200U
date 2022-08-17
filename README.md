@@ -16,4 +16,4 @@ WLAN: QCA9377 (NOT WORKING)
 
 AUDIO: UNKNOWN BUT WORKING
 
-强烈建议替换网卡为支持黑苹果的NFGG网卡
+强烈建议替换网卡为有黑苹果驱动的网卡
