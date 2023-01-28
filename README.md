@@ -2,7 +2,8 @@
 
 联想小新air 13 ikb pro 黑苹果efi
 
-适用于macOS Monterey 12.5.1
+适用于macOS Monterey 12.5.1 (OpenCore)
+            Mojave 10.14.6  (Clover)
 
 CPU: i5 7200U
 
